@@ -1,0 +1,12 @@
+h1 {
+    color: darkcyan;
+}
+
+#picture_css {
+
+    width: 800px;
+    height: 300px;
+    background-image: url(../images/image2.jpeg);
+    margin: auto;
+
+}
