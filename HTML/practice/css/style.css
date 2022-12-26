@@ -1,7 +1,30 @@
 #page-title {
-    color: red;
+    text-align: center;
+    color: aqua;
+    font-size: 32;
+    font-size: 32px;
 }
 
 p {
-    color: red;
+    color: blue;
+    text-align: start;
+}
+
+#picture_container {
+    border: 2px solid rgb(117, 8, 117);
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#image {
+    padding: 5px;
+    width: 100%;
+}
+
+h1 {
+
+    color: deeppink;
+    text-align: center;
+    /* text-emphasis-position: revert; */
 }
