@@ -30,7 +30,7 @@ for ids
 } */
 
 /* _popular_css.html */
-p {
+/* p {
     color: crimson;
     font-style: italic;
 }
@@ -55,7 +55,11 @@ ul {
 }
 
 p,
-h1 {
+h2 {
     color: red;
     font-size: medium;
+} */
+
+#page-title {
+    color: red;
 }
